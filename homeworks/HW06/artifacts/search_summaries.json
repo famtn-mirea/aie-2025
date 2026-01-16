@@ -1,0 +1,47 @@
+[
+  {
+    "model_name": "DummyClassifier",
+    "cv_score (f1)": 0.09378572419856845,
+    "best_params": {
+      "strategy": "constant"
+    }
+  },
+  {
+    "model_name": "LogisticRegression",
+    "cv_score (f1)": 0.4442755129816784,
+    "best_params": {
+      "class_weight": {
+        "0": 1.0,
+        "1": 5.0
+      }
+    }
+  },
+  {
+    "model_name": "DecisionTreeClassifier",
+    "cv_score (f1)": 0.5287490058425359,
+    "best_params": {
+      "class_weight": {
+        "0": 1.0,
+        "1": 5.0
+      },
+      "max_depth": 15,
+      "min_samples_leaf": 1
+    }
+  },
+  {
+    "model_name": "RandomForestClassifier",
+    "cv_score (f1)": 0.5506032867870438,
+    "best_params": {
+      "max_features": 25,
+      "n_estimators": 100
+    }
+  },
+  {
+    "model_name": "GradientBoostingClassifier",
+    "cv_score (f1)": 0.6477593684198233,
+    "best_params": {
+      "learning_rate": 0.1,
+      "max_depth": 3
+    }
+  }
+]
