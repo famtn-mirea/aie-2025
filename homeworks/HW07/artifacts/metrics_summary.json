@@ -1,0 +1,47 @@
+{
+  "dataset_1_agglomaerative_ward": {
+    "sil_score": 0.5216395622404242,
+    "db_score": 0.6853295219054457,
+    "ch_score": 11786.954622671532
+  },
+  "dataset_1_agglomaerative_complete": {
+    "sil_score": 0.18971915819359067,
+    "db_score": 2.127002745158304,
+    "ch_score": 4482.5076678668565
+  },
+  "dataset_1_kmeans_2": {
+    "sil_score": 0.5216395622404242,
+    "db_score": 0.6853295219054457,
+    "ch_score": 11786.954622671532
+  },
+  "dataset_2_agglomaerative_ward": {
+    "sil_score": 0.2658744116185544,
+    "db_score": 1.4673684423118982,
+    "ch_score": 2929.7223479920044
+  },
+  "dataset_2_agglomaerative_complete": {
+    "sil_score": 0.21099663563046736,
+    "db_score": 1.1630438231616265,
+    "ch_score": 1382.6225571809425
+  },
+  "dataset_2_kmeans_2": {
+    "sil_score": 0.3068610017701601,
+    "db_score": 1.3234721699867644,
+    "ch_score": 3573.3933329348392
+  },
+  "dataset_3_agglomaerative_ward": {
+    "sil_score": 0.30940029307932226,
+    "db_score": 1.1775936042245867,
+    "ch_score": 6705.577295073578
+  },
+  "dataset_3_agglomaerative_complete": {
+    "sil_score": 0.12233355854285609,
+    "db_score": 1.637994295859694,
+    "ch_score": 3139.1681485451845
+  },
+  "dataset_3_kmeans_3": {
+    "sil_score": 0.31553248183109267,
+    "db_score": 1.1577832240211112,
+    "ch_score": 6957.158106946779
+  }
+}

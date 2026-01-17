@@ -1,0 +1,20 @@
+[
+  {
+    "dataset_num": 1,
+    "clustering_method": "KMeans",
+    "n_clusters": 2,
+    "criterion": "silhouette_score"
+  },
+  {
+    "dataset_num": 2,
+    "clustering_method": "KMeans",
+    "n_clusters": 2,
+    "criterion": "silhouette_score"
+  },
+  {
+    "dataset_num": 3,
+    "clustering_method": "KMeans",
+    "n_clusters": 3,
+    "criterion": "silhouette_score"
+  }
+]
